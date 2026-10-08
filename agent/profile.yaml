@@ -1,0 +1,12 @@
+description: Tracker — Job is to combine and track what i have done every week. On
+  fridays i need a weekly summary of completed work by 5pm
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar
+    color: '#f97316'
+    imageKind: shape
+    title: Tracker
+    created: 1788878720505
+_ui_meta_revisions:
+  hermes-bots: 1

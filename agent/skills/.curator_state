@@ -1,0 +1,9 @@
+{
+  "last_report_path": "C:\\Users\\codyr\\AppData\\Local\\hermes\\profiles\\work-tracker\\logs\\curator\\20261006-173522",
+  "last_run_at": "2026-10-06T17:35:22.961229+00:00",
+  "last_run_duration_seconds": 6.056377,
+  "last_run_summary": "auto: 2 marked stale; llm: skipped (consolidation off)",
+  "last_run_summary_shown_at": "2026-08-26T21:40:40.301598+00:00",
+  "paused": false,
+  "run_count": 6
+}
